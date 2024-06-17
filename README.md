@@ -2,7 +2,7 @@
 
 
 Para correr el juego debe seguir las siguientes instrucciones 
-'''sh
+```sh
 dc game
 python3 main.py
-'''
+```
